@@ -1,6 +1,6 @@
 # TrafficSign_CNN
 
-I found an interesting [project] (https://medium.com/@waleedka/traffic-sign-recognition-with-tensorflow-629dffc391a6#.1ku2y9fld). Then I tried to repeat the work using CNN. 
+I found an interesting [project] (https://medium.com/@waleedka/traffic-sign-recognition-with-tensorflow-629dffc391a6#.1ku2y9fld). Then I tried to realize the work using CNN. 
 
 ## Prepare
 >skimage<br />
