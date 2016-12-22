@@ -3,9 +3,9 @@
 I found an interesting [project] (https://medium.com/@waleedka/traffic-sign-recognition-with-tensorflow-629dffc391a6#.1ku2y9fld). Then I tried to repeat the work using CNN. 
 
 ## Prepare
->skimage
->numpy
->tensorflow
+>skimage<br />
+>numpy<br />
+>tensorflow<br />
 
 
 ## Dataset
